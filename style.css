@@ -1,8 +1,8 @@
 body {
-	--golden-brown: #996515; /* thx 99colors.net */
-	--icy-blue: #aad4e5; /* thx colrd.com */
-	--fresh-green: #5de566; /* thx colrd.com */
-	--sunflower-yellow: #ffdd22; /* thx colrd.com */
+	--golden-brown: #996515; 		/* 99colors.net */
+	--icy-blue: #aad4e5; 			/* colrd.com */
+	--fresh-green: #5de566; 		/* colrd.com */
+	--sunflower-yellow: #ffdd22;	/* colrd.com */
 }
 
 li {
