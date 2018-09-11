@@ -1,0 +1,26 @@
+body {
+	--golden-brown: #996515; /* thx 99colors.net */
+	--icy-blue: #aad4e5; /* thx colrd.com */
+	--fresh-green: #5de566; /* thx colrd.com */
+	--sunflower-yellow: #ffdd22; /* thx colrd.com */
+}
+
+li {
+	list-style-position: inside;
+	list-style-type: decimal;
+	width: 20em;
+	padding: .5em;
+}
+
+li.autumn {
+	background-color: var(--golden-brown);
+}
+li.winter {
+	background-color: var(--icy-blue);
+}
+li.spring {
+	background-color: var(--fresh-green);
+}
+li.summer {
+	background-color: var(--sunflower-yellow);
+}
